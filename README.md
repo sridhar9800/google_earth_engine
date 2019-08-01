@@ -1,5 +1,5 @@
 # google_earth_engine
-This reposiotry contains code for performing inference on the Landsat ETM+ images to generate a binary mask showing the glaciated pixels of the image
+This repository contains code for performing inference on the Landsat ETM+ images to generate a binary mask showing the glaciated pixels of the image
 The code can be run on Google Colab for which a Google account is required and you will need to authenticate your account access
 User can look in to this presentation from 2018 Google Earth Engine user summit to get idea about Colab and deep learning 
 (https://docs.google.com/presentation/d/1fEf-oScgbC9zjbzI3K3jUlHf4JdmoSLFiG_H491FUmk/edit)
